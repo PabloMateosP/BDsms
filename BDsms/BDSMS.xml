@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE BDsms SYSTEM "BDsms.dtd">
+<BDsms>
+    <sms>
+        <telefono>955556655</telefono>
+        <fecha>9/1/2023</fecha>
+        <hora>13:56</hora>
+        <mensaje>Este es un mensaje del teléfono 955556655 hacia el telefono 622113322</mensaje>
+    </sms>
+    <sms>
+        <telefono>955556655</telefono>
+        <fecha>9/1/2023</fecha>
+        <hora>13:56</hora>
+        <mensaje>Mensaje hacia el telefono 622333832</mensaje>
+    </sms>
+    <sms>
+        <telefono>966423332</telefono>
+        <fecha>9/1/2023</fecha>
+        <hora>13:56</hora>
+        <mensaje>Este es un mensaje de mi para ti </mensaje>
+    </sms>
+</BDsms>
