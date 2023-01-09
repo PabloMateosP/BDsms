@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE BDsms SYSTEM "BDsms.dtd">
-<BDsms>
+<BDsms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmrv.es BDsmsSchema.xsd">
     <sms>
         <telefono>955556655</telefono>
         <fecha>9/1/2023</fecha>
@@ -18,5 +17,23 @@
         <fecha>9/1/2023</fecha>
         <hora>13:56</hora>
         <mensaje>Este es un mensaje de mi para ti </mensaje>
+    </sms>
+    <sms>
+        <telefono>766423332</telefono>
+        <fecha>9/1/2023</fecha>
+        <hora>14:55</hora>
+        <mensaje>Este es un mensaje</mensaje>
+    </sms>
+    <sms>
+        <telefono>923323332</telefono>
+        <fecha>9/1/2023</fecha>
+        <hora>14:54</hora>
+        <mensaje>Mensaje en blanco para el remitente</mensaje>
+    </sms>
+    <sms>
+        <telefono>966111332</telefono>
+        <fecha>9/1/2023</fecha>
+        <hora>14:54</hora>
+        <mensaje>Este es un mensje el cual no tiene texto </mensaje>
     </sms>
 </BDsms>
