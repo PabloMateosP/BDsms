@@ -1,4 +1,4 @@
-<!ELEMENT BDsms (libro)>
+<!ELEMENT Libreria (libro)>
 <!ELEMENT libro (titulo,autor,editorial,ISBN)>
 <!ELEMENT titulo (#PCDATA)>
 <!ELEMENT autor (#PCDATA)>
