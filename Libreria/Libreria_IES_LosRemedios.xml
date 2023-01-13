@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<libreria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmrv.es LibreriaSchema.xsd">
+    <libro>
+        <titulo>El Quijote</titulo>
+        <autor>Miguel Cervantes</autor>
+        <editorial>Montaner y Simón Editores</editorial>
+        <ISBN>9788481093353</ISBN>
+    </libro>
+    <libro>
+        <titulo>La tragicomedia de Calisto y Melibea (La Celestina)</titulo>
+        <autor>Fernando de Rojas</autor>
+        <editorial>Burgos</editorial>
+        <ISBN>9780143106098</ISBN>
+    </libro>
+    <libro>
+        <titulo>Romeo y Julieta</titulo>
+        <autor>William Shakespeare</autor>
+        <editorial>Alfaguara</editorial>
+        <ISBN>9783869711423</ISBN>
+    </libro>
+    <libro>
+        <titulo>La Bodega</titulo>
+        <autor>Noah Gordon</autor>
+        <editorial>RocaEditorial</editorial>
+        <ISBN>9788496791572</ISBN>
+    </libro>
+    <libro>
+        <titulo>Los pilares de la Tierra</titulo>
+        <autor>Ken Follett</autor>
+        <editorial>PLAZA and JANES EDITORES</editorial>
+        <ISBN>9788401328510</ISBN>
+    </libro>
+    <libro>
+        <titulo>Metro 2033</titulo>
+        <autor>Dmitri Glujovski</autor>
+        <editorial>Tinum Mas Narrativa</editorial>
+        <ISBN>9782841725052</ISBN>
+    </libro>
+    <libro>
+        <titulo>Viaje al centro de la tierra</titulo>
+        <autor>Julio Verne</autor>
+        <editorial>Alianza Editorial</editorial>
+        <ISBN>978075831197</ISBN>
+    </libro>
+    <libro>
+        <titulo>Veinte mil leguas de viaje submarino</titulo>
+        <autor>Julio Verne</autor>
+        <editorial>Hetzel</editorial>
+        <ISBN>9783707423471</ISBN>
+    </libro>
+    <libro>
+        <titulo>El principito</titulo>
+        <autor>Antoine Saint-Exupery</autor>
+        <editorial>Emecé Editores</editorial>
+        <ISBN>9788854172388</ISBN>
+    </libro>
+    <libro>
+        <titulo>Alamut</titulo>
+        <autor>Vladimir Bartol</autor>
+        <editorial>SALVAT</editorial>
+        <ISBN>9780972028738</ISBN>
+    </libro>
+</libreria>
