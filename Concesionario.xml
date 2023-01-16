@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmrv.es ConcesionarioSchema.xsd">
+    <coche>
+        <codigo_coche>02789453P</codigo_coche>
+        <marca>Bentley</marca>
+        <modelo>Venom GT</modelo>
+        <potencia>1842cv</potencia>
+        <Nm>1617Nm</Nm>
+        <peso>1360kg</peso>
+        <plazas>2</plazas>
+        <matricula>4563 MCD</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>34523445F</codigo_coche>
+        <marca>BMW</marca>
+        <modelo>Serie 1</modelo>
+        <potencia>190cv</potencia>
+        <Nm>220Nm</Nm>
+        <peso>1500kg</peso>
+        <plazas>5</plazas>
+        <matricula>3245 MSS</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>667623F</codigo_coche>
+        <marca>Mercedes</marca>
+        <modelo>AMG GT coupé</modelo>
+        <potencia>462cv</potencia>
+        <Nm>600Nm</Nm>
+        <peso>1540kg</peso>
+        <plazas>2</plazas>
+        <matricula>4321 PMP</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>235617G</codigo_coche>
+        <marca>Tesla</marca>
+        <modelo>Model S</modelo>
+        <potencia>1020cv</potencia>
+        <Nm>No registrado</Nm>
+        <peso>2265kg</peso>
+        <plazas>5</plazas>
+        <matricula>9966 MPP</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>126583M</codigo_coche>
+        <marca>Tesla</marca>
+        <modelo>Roadster</modelo>
+        <potencia>2000cv</potencia>
+        <Nm>No registrado</Nm>
+        <peso>1305kg</peso>
+        <plazas>2</plazas>
+        <matricula>6921 FFJ</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>127589S</codigo_coche>
+        <marca>Tesla</marca>
+        <modelo>Model X</modelo>
+        <potencia>525cv</potencia>
+        <Nm>660Nm</Nm>
+        <peso>2455kg</peso>
+        <plazas>5</plazas>
+        <matricula>6991 PPJ</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>905678N</codigo_coche>
+        <marca>Mazda</marca>
+        <modelo>Mx5 Miata 2000</modelo>
+        <potencia>120cv</potencia>
+        <Nm>134Nm</Nm>
+        <peso>1015kg</peso>
+        <plazas>2</plazas>
+        <matricula>5621 KLÑ</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>216578L</codigo_coche>
+        <marca>Mazda</marca>
+        <modelo>Rx8</modelo>
+        <potencia>231cv</potencia>
+        <Nm>211NM</Nm>
+        <peso>1425kg</peso>
+        <plazas>4</plazas>
+        <matricula>3001 GBM</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>345678P</codigo_coche>
+        <marca>Alfa Romeo</marca>
+        <modelo>Giulia</modelo>
+        <potencia>510cv</potencia>
+        <Nm>600Nm</Nm>
+        <peso>1695kg</peso>
+        <plazas>4</plazas>
+        <matricula>3335 UIJ</matricula>
+    </coche>
+    <coche>
+        <codigo_coche>003456K</codigo_coche>
+        <marca>Volkswagen</marca>
+        <modelo>Scirocco</modelo>
+        <potencia>280cv</potencia>
+        <Nm>350</Nm>
+        <peso>1426kg</peso>
+        <plazas>4</plazas>
+        <matricula>4523 FTP</matricula>
+    </coche>
+</concesionario>
