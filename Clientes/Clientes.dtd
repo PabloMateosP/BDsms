@@ -1,0 +1,12 @@
+<!ELEMENT Clientes (Sede*)>
+<!ELEMENT Sede (Codigo_sede, Nombre_empleado, Fecha, Descripcion, Cliente)>
+<!ELEMENT Cliente (Codigo_cliente, Numero_vivienda, Coste_vivienda, Resumen_vivienda, Plazo_alta)>
+<!ELEMENT Codigo_sede (#PCDATA)>
+<!ELEMENT Nombre_empleado (#PCDATA)>
+<!ELEMENT Fecha (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>
+<!ELEMENT Codigo_cliente (#PCDATA)>
+<!ELEMENT Numero_vivienda (#PCDATA)>
+<!ELEMENT Coste_vivienda (#PCDATA)>
+<!ELEMENT Resumen_vivienda (#PCDATA)>
+<!ELEMENT Plazo_alta (#PCDATA)>
