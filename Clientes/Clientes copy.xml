@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--<!DOCTYPE Clientes SYSTEM "Clientes.dtd">-->
+<Clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.gmrv.es ClienteSchema.xsd">
+    <Sede codigo="A134B535">
+        <Nombre_empleado>Juan Marín García</Nombre_empleado>
+        <Fecha>20/01/2023</Fecha>
+        <Descripcion>Solvente</Descripcion>
+        <Cliente codigo="ABD6-7-7">
+            <Numero_vivienda>3</Numero_vivienda>
+            <Coste_vivienda>150000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 250 metros, con 6 habitaciones, 2 baños y tres cuartos </Resumen_vivienda>
+            <Plazo_alta>2 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="ABC782389">
+        <Nombre_empleado>Manuela Sánchez Pérez</Nombre_empleado>
+        <Fecha>02/01/2023</Fecha>
+        <Descripcion>Insolvente</Descripcion>
+        <Cliente codigo="DFG4-2-1">
+            <Numero_vivienda>1</Numero_vivienda>
+            <Coste_vivienda>120000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 100 metros, con 4 habitaciones, 1 baño y dos cuartos </Resumen_vivienda>
+            <Plazo_alta>6 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="F4646Y34">
+        <Nombre_empleado>Omar Pérez Gutiérrez</Nombre_empleado>
+        <Fecha>20/11/2022</Fecha>
+        <Descripcion>Solvente</Descripcion>
+        <Cliente codigo="KJL8-3-1">
+            <Numero_vivienda>2</Numero_vivienda>
+            <Coste_vivienda>200000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 500 metros, con 8 habitaciones, 3 baños y 5 cuartos </Resumen_vivienda>
+            <Plazo_alta>4 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="PRT45678">
+        <Nombre_empleado>Celenia Gómez Ponce</Nombre_empleado>
+        <Fecha>11/05/2022</Fecha>
+        <Descripcion>Solvente</Descripcion>
+        <Cliente codigo="MOP1-4-4">
+            <Numero_vivienda>1</Numero_vivienda>
+            <Coste_vivienda>90000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 90 metros, con 4 habitaciones, 1 baños y tres cuartos </Resumen_vivienda>
+            <Plazo_alta>1 mes</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="S234T900">
+        <Nombre_empleado>Ana Romero Mateos</Nombre_empleado>
+        <Fecha>20/12/2021</Fecha>
+        <Descripcion>Solvente</Descripcion>
+        <Cliente codigo="PBT2-1-2">
+            <Numero_vivienda>1</Numero_vivienda>
+            <Coste_vivienda>230000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 500 metros, con 5 habitaciones, 2 baños y tres cuartos </Resumen_vivienda>
+            <Plazo_alta>12 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="A134B535">
+        <Nombre_empleado>Fran Gómez Pérez</Nombre_empleado>
+        <Fecha>04/05/2022</Fecha>
+        <Descripcion>insolvente</Descripcion>
+        <Cliente codigo="RET2-1-6">
+            <Numero_vivienda>2</Numero_vivienda>
+            <Coste_vivienda>120000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 98 metros, con 4 habitaciones, 1 baño y tres cuartos </Resumen_vivienda>
+            <Plazo_alta>12 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="R23WEF90">
+        <Nombre_empleado>Julián Palas Gálvez</Nombre_empleado>
+        <Fecha>19/04/2021</Fecha>
+        <Descripcion>insolvente</Descripcion>
+        <Cliente codigo="PLJ9-9-9">
+            <Numero_vivienda>1</Numero_vivienda>
+            <Coste_vivienda>80000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 90 metros, con 3 habitaciones, 1 baño y dos cuartos </Resumen_vivienda>
+            <Plazo_alta>5 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="F47583JFR">
+        <Nombre_empleado>José Borrego Gutiérrez</Nombre_empleado>
+        <Fecha>30/10/2022</Fecha>
+        <Descripcion>Solvente</Descripcion>
+        <Cliente codigo="ERT6-2-1">
+            <Numero_vivienda>3</Numero_vivienda>
+            <Coste_vivienda>110000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 110 metros, con 5 habitaciones, 2 baños y tres cuartos </Resumen_vivienda>
+            <Plazo_alta>5 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="A134B535">
+        <Nombre_empleado>Victr Herrera Saborido</Nombre_empleado>
+        <Fecha>30/11/2022</Fecha>
+        <Descripcion>Solvente</Descripcion>
+        <Cliente codigo="RTD1-2-7">
+            <Numero_vivienda>1</Numero_vivienda>
+            <Coste_vivienda>90000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 90 metros, con 4 habitaciones, 2 baños y dos cuartos </Resumen_vivienda>
+            <Plazo_alta>1 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+    <Sede codigo="A134B535">
+        <Nombre_empleado>Pablo Velázquez Piñero</Nombre_empleado>
+        <Fecha>01/12/2022</Fecha>
+        <Descripcion>Insolvente</Descripcion>
+        <Cliente codigo="TED1-4-4">
+            <Numero_vivienda>5</Numero_vivienda>
+            <Coste_vivienda>146000</Coste_vivienda>
+            <Resumen_vivienda>La vivienda en venta es una casa de 100 metros, con 4 habitaciones, 1 baño y tres cuartos </Resumen_vivienda>
+            <Plazo_alta>11 meses</Plazo_alta>
+        </Cliente>
+    </Sede>
+</Clientes>
