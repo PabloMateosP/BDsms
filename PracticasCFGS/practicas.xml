@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <!DOCTYPE BDsms SYSTEM "practicas.dtd"> -->
+<practicas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="practicasSchema.xsd">
+	<alumno>
+		<nif>945923504K</nif>
+		<resultado>Apto</resultado>
+		<observaciones><anhos>20</anhos><poblacion>Lugo</poblacion></observaciones>
+		<ip>162.188.8.1</ip>
+	</alumno>
+	<alumno>
+		<nif>829349234A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones><anhos>18</anhos><poblacion>Salamanca</poblacion></observaciones>
+		<mac>96:FE:45:CA:15:12</mac>
+	</alumno>
+	<alumno>
+		<nif>90643523S</nif>
+		<resultado>No Apto</resultado>
+		<observaciones><anhos>19</anhos><poblacion>Teruel</poblacion></observaciones>
+		<ip>192.238.8.2</ip>
+	</alumno>
+	<alumno>
+		<nif>32329234X</nif>
+		<resultado>No Apto</resultado>
+		<observaciones><anhos>21</anhos><poblacion>Granada</poblacion></observaciones>
+		<mac>78:XE:35:RA:14:14</mac>
+	</alumno>
+	<alumno>
+		<nif>398349283R</nif>
+		<resultado>Apto</resultado>
+		<observaciones><anhos>18</anhos><poblacion>Malaga</poblacion></observaciones>
+		<mac>90:HE:78:TA:21:21</mac>
+	</alumno>
+	<alumno>
+		<nif>829349234A</nif>
+		<resultado>No Apto</resultado>
+		<observaciones><anhos>18</anhos><poblacion>Murcia</poblacion></observaciones>
+		<mac>62:LW:77:ME:28:99</mac>
+	</alumno>
+	<alumno>
+		<nif>907643230S</nif>
+		<resultado>Apto</resultado>
+		<observaciones><anhos>21</anhos><poblacion>Teruel</poblacion></observaciones>
+		<ip>192.155.6.1</ip>
+	</alumno>
+	<alumno>
+		<nif>994823752M</nif>
+		<resultado>No Apto</resultado>
+		<observaciones><anhos>18</anhos><poblacion>Cordoba</poblacion></observaciones>
+		<ip>199.432.7.2</ip>
+	</alumno>
+	<alumno>
+		<nif>434545467V</nif>
+		<resultado>No Apto</resultado>
+		<observaciones><anhos>18</anhos><poblacion>Girona</poblacion></observaciones>
+		<ip>192.122.8.8</ip>
+	</alumno>
+</practicas>
