@@ -1,0 +1,15 @@
+<!ELEMENT Informe (Cabecera, Tabla)>
+<!ELEMENT Cabecera (titulo, contenido, descripcion, fecha)>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT contenido (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT Tabla (region+, trimestre, libros_vendidos)>
+<!ELEMENT region (norte | centro | sur)>
+<!ELEMENT norte (#PCDATA| trimestreTabla | librosvendidos)*>
+<!ELEMENT centro (#PCDATA| trimestreTabla | librosvendidos)*>
+<!ELEMENT sur (#PCDATA| trimestreTabla | librosvendidos)*>
+<!ELEMENT trimestreTabla (#PCDATA)>
+<!ELEMENT librosvendidos (#PCDATA)>
+<!ELEMENT trimestre (#PCDATA)>
+<!ELEMENT libros_vendidos (#PCDATA)>
