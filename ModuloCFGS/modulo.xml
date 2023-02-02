@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <!DOCTYPE modulos SYSTEM "modulo.dtd"> -->
+<modulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="moduloSchema.xsd">>
+    <modulo>
+        <modulo_profesional>Sistema Informático</modulo_profesional>
+        <ud>
+            <tipo>Modulo Informático</tipo>
+            <descripcion>Módulo en el que conoceremos y desarrollaremos los usos del sistema operativo Linux y sus utilidades</descripcion>
+        </ud>    
+    </modulo>
+    <modulo>
+        <modulo_profesional>Programación</modulo_profesional>
+        <ud>
+            <tipo>Modulo Informático</tipo>
+            <descripcion>Módulo en el que conoceremos y desarrollaremos la creación de programas mediante lenguajes de código</descripcion>
+        </ud>    
+    </modulo>
+    <modulo>
+        <modulo_profesional>Base De Datos</modulo_profesional>
+        <ud>
+            <tipo>Modulo Informático</tipo>
+            <descripcion>Módulo en el que conoceremos y desarrollaremos nuestras habilidades en la creación de base de datos y el desarrollo de estas</descripcion>
+        </ud>    
+    </modulo>
+</modulos>

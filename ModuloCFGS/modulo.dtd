@@ -1,0 +1,6 @@
+<!ELEMENT modulos (modulo)>
+<!ELEMENT modulo (modulo_profesional, ud)>
+<!ELEMENT modulo_profesional ANY>
+<!ELEMENT ud (tipo, descripcion)>
+<!ELEMENT tipo (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
