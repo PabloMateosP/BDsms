@@ -1,0 +1,9 @@
+<!ELEMENT Gimnasio (Clientes*)>
+<!ELEMENT Clientes (Cliente*)>
+<!ELEMENT Cliente (Ape1,Ape2,Nombre,InicioSuscripcion,FinSuscripcion,Sexo)>
+<!ELEMENT Ape1 (#PCDATA)>
+<!ELEMENT Ape2 (#PCDATA)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT InicioSuscripcion (#PCDATA)>
+<!ELEMENT FinSuscripcion (#PCDATA)>
+<!ELEMENT Sexo (#PCDATA)>

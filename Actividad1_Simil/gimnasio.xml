@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<!-- <!DOCTYPE Gimnasio SYSTEM "Gimnasio.dtd"> -->
+<Gimnasio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="GimnasioSchema.xsd"> 
+    <Clientes>
+        <Cliente>
+            <Ape1>Fuentes</Ape1>
+            <Ape2>Echevarria</Ape2>
+            <Nombre>Manel</Nombre>
+            <InicioSuscripcion>2023-01-01</InicioSuscripcion>
+            <FinSuscripcion>2023-03-01</FinSuscripcion>
+            <Sexo>Hombre</Sexo>
+        </Cliente>
+        <Cliente>
+            <Ape1>Perez</Ape1>
+            <Ape2>Perez</Ape2>
+            <Nombre>Manuel</Nombre>
+            <InicioSuscripcion>2022-11-13</InicioSuscripcion>
+            <FinSuscripcion>2023-02-13</FinSuscripcion>
+            <Sexo>Hombre</Sexo>
+        </Cliente>
+        <Cliente>
+            <Ape1>Gálvez</Ape1>
+            <Ape2>Mateos</Ape2>
+            <Nombre>Miguel</Nombre>
+            <InicioSuscripcion>2022-12-10</InicioSuscripcion>
+            <FinSuscripcion>2023-01-10</FinSuscripcion>
+            <Sexo>Hombre</Sexo>
+        </Cliente>
+        <Cliente>
+            <Ape1>Gálvez</Ape1>
+            <Ape2>Mateos</Ape2>
+            <Nombre>María</Nombre>
+            <InicioSuscripcion>2022-12-10</InicioSuscripcion>
+            <FinSuscripcion>2023-01-10</FinSuscripcion>
+            <Sexo>Mujer</Sexo>
+        </Cliente>
+        <Cliente>
+            <Ape1>Herrrer</Ape1>
+            <Ape2>Saborido</Ape2>
+            <Nombre>Juan Manuel</Nombre>
+            <InicioSuscripcion>2022-10-10</InicioSuscripcion>
+            <FinSuscripcion>2023-01-10</FinSuscripcion>
+            <Sexo>Hombre</Sexo>
+        </Cliente>
+    </Clientes>
+</Gimnasio>
