@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- <!DOCTYPE BDsms SYSTEM "practicas.dtd"> -->
+<ejercito xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EjercitoSchema.xsd">
+	<recluta>
+		<nombre>Pablo</nombre>
+        <1ape>Mateos</1ape>
+        <nif>20605192K</nif>
+		<resultado>Apto</resultado>
+		<observaciones>Es un hombre fuerte con buena condición física</observaciones>
+        <CodCompañiaTierra>0001</CodCompañiaTierra>
+	</recluta>
+    <recluta>
+		<nombre>Fran</nombre>
+        <1ape>Calvillo</1ape>
+        <nif>53465233K</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Buena condición física aunque falto de reflejos</observaciones>
+        <CodCompañiaTierra>No apto</CodCompañiaTierra>
+	</recluta>
+    <recluta>
+		<nombre>Miriam</nombre>
+        <1ape>Pérez</1ape>
+        <nif>29305192F</nif>
+		<resultado>No Apto</resultado>
+		<observaciones>Poca influencia en las practicas no posee cualidades notorias</observaciones>
+        <CodCompañiaTierra>no apto</CodCompañiaTierra>
+	</recluta>
+    <recluta>
+		<nombre>Adriana</nombre>
+        <1ape>Gálvez</1ape>
+        <nif>20703492R</nif>
+		<resultado>Apto</resultado>
+		<observaciones>Muy buena condición física y con alto coeficiente intelectual</observaciones>
+        <CodCompañiaAire>0002</CodCompañiaAire>
+	</recluta>
+    <recluta>
+		<nombre>Samuel</nombre>
+        <1ape>Oñate</1ape>
+        <nif>21545192S</nif>
+		<resultado>Apto</resultado>
+		<observaciones>Es un hombre fuerte con buena condición física y muchas polivalencias</observaciones>
+        <CodCompañiaAgua>0003</CodCompañiaAgua>
+	</recluta>
+</ejercito>

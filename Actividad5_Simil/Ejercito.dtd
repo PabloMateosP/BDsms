@@ -1,0 +1,10 @@
+<!ELEMENT Ejercito (recluta*)>
+<!ELEMENT recluta (recluta*)>
+<!ELEMENT recluta (nombre,1ape,NIF,Observaciones,CodCompañiaTierra,CodCompañiAire,CodCompañiaAgua)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT 1ape (#PCDATA)>
+<!ELEMENT NIF (#PCDATA)>
+<!ELEMENT Observaciones (#PCDATA)>
+<!ELEMENT CodCompañiaTierra (#PCDATA)>
+<!ELEMENT CodCompañiaAire (#PCDATA)>
+<!ELEMENT CodCompañiaAgua (#PCDATA)>
