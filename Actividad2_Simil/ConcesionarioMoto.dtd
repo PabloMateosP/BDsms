@@ -1,0 +1,7 @@
+<!ELEMENT ConcesionarioMoto (Moto*)>
+<!ELEMENT Moto (Marca,Modelo,Matrícula,Potencia,Cilindrada)>
+<!ELEMENT Marca (#PCDATA)>
+<!ELEMENT Modelo (#PCDATA)>
+<!ELEMENT Matrícula (#PCDATA)>
+<!ELEMENT Potencia (#PCDATA)>
+<!ELEMENT Cilindrada (#PCDATA)>

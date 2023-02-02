@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" version="0.1" xml:lang="es">
+    <xs:element name="ConcesionarioMoto">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Moto" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Marca" type="xs:string"/>
+                            <xs:element name="Modelo" type="xs:string"/>
+                            <xs:element name="Matrícula" type="xs:string"/>
+                            <xs:element name="Potencia" type="xs:int"/>
+                            <xs:element name="Cilindrada" type="xs:int"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
