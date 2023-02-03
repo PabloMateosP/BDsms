@@ -6,34 +6,34 @@
         <Modelo>RSV4</Modelo>
         <Matrícula>1434 SPQ</Matrícula>
         <Potencia>217</Potencia>
-        <Cilindrada>1099cc</Plazas>
+        <Cilindrada>1099cc</Cilindrada>
     </Moto>
     <Moto>
         <Marca>Aprilia</Marca>
         <Modelo>RSV4 Factory</Modelo>
         <Matrícula>3362 XSQ</Matrícula>
         <Potencia>217</Potencia>
-        <Cilindrada>1099cc</Plazas>
+        <Cilindrada>1099cc</Cilindrada>
     </Moto>
     <Moto>
         <Marca>BMW</Marca>
         <Modelo>S 1000 RR</Modelo>
         <Matrícula>3452 KJD</Matrícula>
         <Potencia>207</Potencia>
-        <Cilindrada>999cc</Plazas>
+        <Cilindrada>999cc</Cilindrada>
     </Moto>
     <Moto>
         <Marca>BMW</Marca>
         <Modelo>M 1000 RR</Modelo>
         <Matrícula>9796 YQY</Matrícula>
         <Potencia>212</Potencia>
-        <Cilindrada>999cc</Plazas>
+        <Cilindrada>999cc</Cilindrada>
     </Moto>
     <Moto>
         <Marca>Ducati</Marca>
         <Modelo>Panigale V4 S/SP</Modelo>
         <Matrícula>3213 RTQ</Matrícula>
         <Potencia>214</Potencia>
-        <Cilindrada>1103cc</Plazas>
+        <Cilindrada>1103cc</Cilindrada>
     </Moto>
 </ConcesionarioMoto>

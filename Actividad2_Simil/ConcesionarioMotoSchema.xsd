@@ -10,7 +10,7 @@
                             <xs:element name="Modelo" type="xs:string"/>
                             <xs:element name="Matrícula" type="xs:string"/>
                             <xs:element name="Potencia" type="xs:int"/>
-                            <xs:element name="Cilindrada" type="xs:int"/>
+                            <xs:element name="Cilindrada" type="xs:string"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>

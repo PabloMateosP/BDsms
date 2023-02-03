@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE informe SYSTEM "editorial.dtd">
+<!DOCTYPE Informe SYSTEM "editorial.dtd">
 <Informe>
   <Cabecera>
     <titulo>Ediciones Aranda</titulo>
@@ -9,19 +9,19 @@
   </Cabecera>
   <Tabla>
     <region>
-      <norte>Norte
+      <Norte>Norte
         <trimestreTabla>1</trimestreTabla>
         <librosvendidos>24000</librosvendidos>
         <trimestreTabla>2</trimestreTabla>
         <librosvendidos>38600</librosvendidos>
         <trimestreTabla>3</trimestreTabla>
         <librosvendidos>NO_INFO</librosvendidos>
-        <tri>4</tri>
+        <trimestreTabla>4trimestreTabla</trimestreTabla>
         <librosvendidos>NO_INFO</librosvendidos>
-      </norte>
+      </Norte>
     </region>
     <region>
-      <centro>Centro
+      <Centro>Centro
         <trimestreTabla>1</trimestreTabla>
         <librosvendidos>NO_INFO</librosvendidos>
         <trimestreTabla>2</trimestreTabla>
@@ -30,10 +30,10 @@
         <librosvendidos>25000</librosvendidos>
         <trimestreTabla>4</trimestreTabla>
         <librosvendidos>29000</librosvendidos>
-      </centro>
+      </Centro>
     </region>
     <region>
-      <sur>Sur
+      <Sur>Sur
         <trimestreTabla>1</trimestreTabla>
         <librosvendidos>27000</librosvendidos>
         <trimestreTabla>2</trimestreTabla>
@@ -42,7 +42,7 @@
         <librosvendidos>40100</librosvendidos>
         <trimestreTabla>4</trimestreTabla>
         <librosvendidos>30000</librosvendidos>
-      </sur>
+      </Sur>
     </region>
     <trimestre>Trimestre</trimestre>
     <libros_vendidos>Libros vendidos</libros_vendidos>

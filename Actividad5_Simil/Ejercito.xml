@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- <!DOCTYPE BDsms SYSTEM "practicas.dtd"> -->
-<ejercito xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EjercitoSchema.xsd">
+<Ejercito xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="EjercitoSchema.xsd">
 	<recluta>
 		<nombre>Pablo</nombre>
-        <1ape>Mateos</1ape>
+        <ape1>Mateos</1ape>
         <nif>20605192K</nif>
 		<resultado>Apto</resultado>
 		<observaciones>Es un hombre fuerte con buena condición física</observaciones>

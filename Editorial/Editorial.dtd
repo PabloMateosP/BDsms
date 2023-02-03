@@ -5,10 +5,10 @@
 <!ELEMENT descripcion (#PCDATA)>
 <!ELEMENT fecha (#PCDATA)>
 <!ELEMENT Tabla (region+, trimestre, libros_vendidos)>
-<!ELEMENT region (norte | centro | sur)>
-<!ELEMENT norte (#PCDATA| trimestreTabla | librosvendidos)*>
-<!ELEMENT centro (#PCDATA| trimestreTabla | librosvendidos)*>
-<!ELEMENT sur (#PCDATA| trimestreTabla | librosvendidos)*>
+<!ELEMENT region (Norte | Centro | Sur)>
+<!ELEMENT Norte (#PCDATA| trimestreTabla | librosvendidos)*>
+<!ELEMENT Centro (#PCDATA| trimestreTabla | librosvendidos)*>
+<!ELEMENT Sur (#PCDATA| trimestreTabla | librosvendidos)*>
 <!ELEMENT trimestreTabla (#PCDATA)>
 <!ELEMENT librosvendidos (#PCDATA)>
 <!ELEMENT trimestre (#PCDATA)>
